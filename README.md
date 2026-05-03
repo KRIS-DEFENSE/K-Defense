@@ -2,12 +2,11 @@
 **Interactive Scam Simulator for Educational Purposes**
 
 ## 🌟 The Mission
-Inspired by the story of Danielle Garcia-Culp and others in the Weston community, **Knowledge Defense** is a web-based simulation tool. It allows seniors to practice identifying fraudulent messages and "red flags" in a safe environment without any real-world risk.
+**Knowledge Defense** is a web-based simulation tool. It allows people to practice identifying fraudulent messages and "red flags" in a safe environment without any real-world risk.
 
 ## 🚀 Live Project
 Check out the live site here: 
-`https://[YOUR-USERNAME].github.io/knowledge-defense/`
-*(Replace [YOUR-USERNAME] with your actual GitHub username)*
+`https://kris-defense.github.io/knowledge-defense/`
 
 ## 📅 Roadmap
 - [x] **Phase I:** Foundation & Legal (May 2 - May 8)
